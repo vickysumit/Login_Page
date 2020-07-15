@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2b73c47.chunk.css",
-    "main.js": "/static/js/main.5e4c8201.chunk.js",
-    "main.js.map": "/static/js/main.5e4c8201.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3a923700.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3a923700.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e0ea0d3d.chunk.js": "/static/js/2.e0ea0d3d.chunk.js",
-    "static/js/2.e0ea0d3d.chunk.js.map": "/static/js/2.e0ea0d3d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a381b6fbc24e18abd6eaa80a5541d8e4.js": "/precache-manifest.a381b6fbc24e18abd6eaa80a5541d8e4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c2b73c47.chunk.css.map": "/static/css/main.c2b73c47.chunk.css.map",
-    "static/js/2.e0ea0d3d.chunk.js.LICENSE.txt": "/static/js/2.e0ea0d3d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Login_Page/static/css/main.c2b73c47.chunk.css",
+    "main.js": "/Login_Page/static/js/main.ec6e7dfa.chunk.js",
+    "main.js.map": "/Login_Page/static/js/main.ec6e7dfa.chunk.js.map",
+    "runtime-main.js": "/Login_Page/static/js/runtime-main.1bd85c15.js",
+    "runtime-main.js.map": "/Login_Page/static/js/runtime-main.1bd85c15.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Login_Page/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e0ea0d3d.chunk.js": "/Login_Page/static/js/2.e0ea0d3d.chunk.js",
+    "static/js/2.e0ea0d3d.chunk.js.map": "/Login_Page/static/js/2.e0ea0d3d.chunk.js.map",
+    "index.html": "/Login_Page/index.html",
+    "precache-manifest.c08679ded07442940d139f162d333aef.js": "/Login_Page/precache-manifest.c08679ded07442940d139f162d333aef.js",
+    "service-worker.js": "/Login_Page/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Login_Page/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.c2b73c47.chunk.css.map": "/Login_Page/static/css/main.c2b73c47.chunk.css.map",
+    "static/js/2.e0ea0d3d.chunk.js.LICENSE.txt": "/Login_Page/static/js/2.e0ea0d3d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Login_Page/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a923700.js",
+    "static/js/runtime-main.1bd85c15.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.e0ea0d3d.chunk.js",
     "static/css/main.c2b73c47.chunk.css",
-    "static/js/main.5e4c8201.chunk.js"
+    "static/js/main.ec6e7dfa.chunk.js"
   ]
 }
